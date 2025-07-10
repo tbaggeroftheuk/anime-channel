@@ -74,11 +74,11 @@
 				"type": "episode",
 				"number": 1,
 				"ageRate": 0,
-				"title": "Title go here",
-				"description": "Description go here",
+				"title": "Meet the Spy",
+				"description": "Go and meet the spy the offical meet the spy video",
 				"mediaUrls": {
-					"en": "https://place_your_video_link_here.com/video_file.moflex",
-					"fr": "https://place_your_video_link_here.com/video_file.moflex"
+					"en": "https://raw.githubusercontent.com/tbaggeroftheuk/anime-channel/main/Moflex/spy.moflex",
+					"fr": "https://raw.githubusercontent.com/tbaggeroftheuk/anime-channel/main/Moflex/spy.moflex"
 				},
 				"viewCount": 111,
 				"imageUrls": {
