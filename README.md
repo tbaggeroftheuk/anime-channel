@@ -5,3 +5,5 @@ https://github.com/Aftendo/Nintendo-Anime-Channel-Revival
 Im using this github repo to serve the moflex files :)
 
 anything thing on this repo belongs to there respective charecters 
+
+also this hosts images for my local shopdeck as this is easyist lol 
