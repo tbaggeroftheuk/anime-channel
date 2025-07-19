@@ -1,0 +1,21 @@
+{
+    "tid": "000400000004FC00",
+    "uid": "50010000007146",
+    "name": "PAC-MAN™",
+    "formal_name": null,
+    "description": null,
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-N-RAZP",
+    "platform_name": "Game Boy",
+    "region": "Europe",
+    "genres": [],
+    "features": [],
+    "languages": [],
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "version": "v0.1.0",
+    "disclaimer": null,
+    "descriptors": []
+}
